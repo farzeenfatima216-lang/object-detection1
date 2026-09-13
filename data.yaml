@@ -1,0 +1,7 @@
+
+path: .
+train: train/train/images
+val: train/train/images
+
+names:
+  0: car
